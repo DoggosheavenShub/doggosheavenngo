@@ -25,7 +25,7 @@ function TeamSection() {
           <div className="flex flex-col rounded-lg md:flex-row gap-8">
   <div className="md:w-1/2 overflow-hidden rounded-tl-[60px] rounded-bl-[60px] rounded-tr-none rounded-br-none">
     <img
-      src="https://pets-shelter.sites.motocms.com/res/673338e1d51e2c8555b90485/673b0d8f995899838cc52ef9_optimized_963_c963x1348-0x0"
+      src="./Subh.jpeg"
       alt="Emma Johnson"
       className="w-full h-full object-cover"
     />
