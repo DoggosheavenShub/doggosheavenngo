@@ -25,7 +25,7 @@ const handleSubmit = async (e) => {
   setSubmitStatus(null);
 
   try {
-    const response = await fetch(`${import.meta.env.VITE_API_BASE_URL}/api/v1/sendcontactformmail`, {
+    const response = await fetch(`${import.meta.env.VITE_API_BASE_URL}api/v1/sendcontactformmail`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
