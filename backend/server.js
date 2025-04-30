@@ -13,7 +13,7 @@ console.log(process.env.FRONTEND_URL);
 
 app.use(
   cors({
-    origin: origin: ["https://doggosheavenngo-frontend.vercel.app","https://www.doggosheaven.org"],
+    origin:["https://doggosheavenngo-frontend.vercel.app","https://www.doggosheaven.org"],
     allowedHeaders: ["Content-Type", "Accept-Type"],
     methods: ["GET", "POST"],
   })
