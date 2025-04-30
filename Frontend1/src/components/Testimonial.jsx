@@ -12,7 +12,7 @@ function TestimonialsSection() {
       name: "Gaurav sharma",
       image:
         "./kaju.jpeg",
-      petAdopted: "Kaju (Cat)",
+      petAdopted: "Kaju",
       quote:
         "This place is a true heaven for doggos. The boarding area and park is very nice, ensuring every pet feels comfortable and safe during their stay. Place also has a vet to look after the pups as needed. What truly sets this place apart is the dedicated and caring staff who treat every animal like family, providing personalized attention and love.During my visit, I was deeply impressed by their commitment to animal welfare and decided to adopt a pet. That’s when I met Kajju. The adoption process was smooth and well-organized, with the staff ensuring Kajju was the perfect match for me. He came home healthy and well-socialized. Would recommend 10/10",
     },
